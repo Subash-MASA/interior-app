@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/interior-app/static/css/main.c7919441.css",
+    "main.js": "/interior-app/static/js/main.09c2d7e1.js",
+    "static/js/488.03d1ba06.chunk.js": "/interior-app/static/js/488.03d1ba06.chunk.js",
+    "static/media/abcd.jpg": "/interior-app/static/media/abcd.115d4914256c858db80a.jpg",
+    "static/media/pexels-fotoaibe-1643384.jpg": "/interior-app/static/media/pexels-fotoaibe-1643384.abf64253d7f1420c0c65.jpg",
+    "static/media/portfolio-7.jpeg": "/interior-app/static/media/portfolio-7.0b68312ef2b8f5452d07.jpeg",
+    "static/media/portfolio-8.jpeg": "/interior-app/static/media/portfolio-8.657ecff35a13da211622.jpeg",
+    "static/media/admission.JPG": "/interior-app/static/media/admission.db3ef0dc17543f073e69.JPG",
+    "static/media/portfolio-4.jpeg": "/interior-app/static/media/portfolio-4.1cda1c8948a32e772cb1.jpeg",
+    "static/media/portfolio-2.jpeg": "/interior-app/static/media/portfolio-2.e1951fdbb987314c31ab.jpeg",
+    "static/media/portfolio-9.jpeg": "/interior-app/static/media/portfolio-9.f81e09ca1c3a74e26d35.jpeg",
+    "static/media/portfolio-6.jpeg": "/interior-app/static/media/portfolio-6.45ce7549d1220ec18f49.jpeg",
+    "static/media/portfolio-3.jpeg": "/interior-app/static/media/portfolio-3.206828a11319be540c52.jpeg",
+    "static/media/portfolio-5.jpeg": "/interior-app/static/media/portfolio-5.8a1cc1e9531c73a764b3.jpeg",
+    "static/media/pss-fa.JPG": "/interior-app/static/media/pss-fa.b04dc6cec26117976770.JPG",
+    "static/media/portfolio-1.jpeg": "/interior-app/static/media/portfolio-1.b6978efacc85bb92b7d1.jpeg",
+    "index.html": "/interior-app/index.html",
+    "main.c7919441.css.map": "/interior-app/static/css/main.c7919441.css.map",
+    "main.09c2d7e1.js.map": "/interior-app/static/js/main.09c2d7e1.js.map",
+    "488.03d1ba06.chunk.js.map": "/interior-app/static/js/488.03d1ba06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7919441.css",
+    "static/js/main.09c2d7e1.js"
+  ]
+}
