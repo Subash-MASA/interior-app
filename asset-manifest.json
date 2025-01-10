@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/interior-app/static/css/main.edc3599f.css",
-    "main.js": "/interior-app/static/js/main.b97e961d.js",
+    "main.css": "/interior-app/static/css/main.17be20f4.css",
+    "main.js": "/interior-app/static/js/main.93a8c6b6.js",
     "static/js/488.03d1ba06.chunk.js": "/interior-app/static/js/488.03d1ba06.chunk.js",
     "static/media/abcd.jpg": "/interior-app/static/media/abcd.115d4914256c858db80a.jpg",
     "static/media/Interior10.jpg": "/interior-app/static/media/Interior10.f7698533cca083681555.jpg",
@@ -12,6 +12,8 @@
     "static/media/Interior12.jpg": "/interior-app/static/media/Interior12.f78d67828739006abd09.jpg",
     "static/media/Interior1.jpg": "/interior-app/static/media/Interior1.8298f5eff20c18cdc27f.jpg",
     "static/media/Interior16.jpg": "/interior-app/static/media/Interior16.3a555e94d74c6f551a48.jpg",
+    "static/media/Interior-shop4.jpg": "/interior-app/static/media/Interior-shop4.a372c8b991521201035e.jpg",
+    "static/media/Interior-shop1.jpg": "/interior-app/static/media/Interior-shop1.38fb9c2bc112e7ed6ae4.jpg",
     "static/media/Interior13.jpg": "/interior-app/static/media/Interior13.ba1dc243e40d2e4ee396.jpg",
     "static/media/Interior14.jpg": "/interior-app/static/media/Interior14.57abdaa1511ee38e3794.jpg",
     "static/media/Interior8.jpg": "/interior-app/static/media/Interior8.bc15258a3ce49632ad80.jpg",
@@ -19,20 +21,22 @@
     "static/media/Interior11.jpg": "/interior-app/static/media/Interior11.f2b6210e110457711837.jpg",
     "static/media/Interior4.jpg": "/interior-app/static/media/Interior4.31ae681da9dd369ba5da.jpg",
     "static/media/Interior18.jpg": "/interior-app/static/media/Interior18.8c630ca3faf7409ebe0e.jpg",
+    "static/media/Interior-shop2.webp": "/interior-app/static/media/Interior-shop2.14be6e19a8d12f9201c8.webp",
     "static/media/Interior6.jpg": "/interior-app/static/media/Interior6.3f77899fa6f714c4c06d.jpg",
     "static/media/Interior20.jpg": "/interior-app/static/media/Interior20.a11148a787833acccd99.jpg",
     "static/media/Interior5.jpg": "/interior-app/static/media/Interior5.97fc3a0a038425710d6d.jpg",
+    "static/media/Interior-shop3.webp": "/interior-app/static/media/Interior-shop3.bf22ea34f5a834913689.webp",
     "static/media/interior-logo.png": "/interior-app/static/media/interior-logo.eba440a6226ca091370a.png",
     "static/media/Interior9.jpg": "/interior-app/static/media/Interior9.2e78b71d760518d8ca72.jpg",
     "static/media/Interior3.jpg": "/interior-app/static/media/Interior3.89f5468891a5ff898cef.jpg",
     "static/media/Interior7.jpg": "/interior-app/static/media/Interior7.c56bfc7366ac09a795c4.jpg",
     "index.html": "/interior-app/index.html",
-    "main.edc3599f.css.map": "/interior-app/static/css/main.edc3599f.css.map",
-    "main.b97e961d.js.map": "/interior-app/static/js/main.b97e961d.js.map",
+    "main.17be20f4.css.map": "/interior-app/static/css/main.17be20f4.css.map",
+    "main.93a8c6b6.js.map": "/interior-app/static/js/main.93a8c6b6.js.map",
     "488.03d1ba06.chunk.js.map": "/interior-app/static/js/488.03d1ba06.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.edc3599f.css",
-    "static/js/main.b97e961d.js"
+    "static/css/main.17be20f4.css",
+    "static/js/main.93a8c6b6.js"
   ]
 }
