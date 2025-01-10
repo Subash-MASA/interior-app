@@ -8,14 +8,15 @@ function Footer() {
           <div class="row">
             <div class="col-lg-4 col-md-6">
               <div class="footer-la-1">
-                <h1>Subash</h1>
-                <p>
-                  3.1.88 Bharathi Nagar,
-                  <br />
-                  Sambavarvadakarai 627-856,
-                  <br />
-                  Tenkasi.
-                </p>
+              <h1>K. BHARATH RAJ</h1>
+                    <h1>S. DINESH BABU</h1>
+                    <p>
+                      79-A, Siva Prakasam Nager,
+                      <br />
+                      40 Feet Road, Redlilis, 
+                      <br />
+                      Ambattur, Chennai - 600053.
+                    </p>
               </div>
             </div>
             <div class="col-lg-3 col-md-6">
@@ -38,14 +39,14 @@ function Footer() {
                     <iconify-icon inline icon="bx:chevron-right"></iconify-icon>
                     <a href="#designs">Designs</a>
                   </li>
-                  <li>
+                  {/* <li>
                     <iconify-icon inline icon="bx:chevron-right"></iconify-icon>
                     <a href="#projects">Projects</a>
-                  </li>
-                  <li>
+                  </li> */}
+                  {/* <li>
                     <iconify-icon inline icon="bx:chevron-right"></iconify-icon>
                     <a href="#workexp">Work Exprience</a>
-                  </li>
+                  </li> */}
                   <li>
                     <iconify-icon inline icon="bx:chevron-right"></iconify-icon>
                     <a href="#contact">Contacts</a>
@@ -56,7 +57,7 @@ function Footer() {
           </div>
         </div>
       </div>
-      <div class="footer-end text-center">
+      {/* <div class="footer-end text-center">
         <div class="container">
           <div class="row  justify-content-between align-items-center">
             <div class="col-lg-8 col-md-6">
@@ -87,7 +88,7 @@ function Footer() {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }

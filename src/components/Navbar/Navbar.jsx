@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Finefinish from "../../assets/finefinish.png";
+import Finefinish from "../../assets/Interiar/interior-logo.png";
 
 function CollapsibleExample() {
   const [isOpen, setIsOpen] = useState(false);
@@ -43,21 +43,21 @@ function CollapsibleExample() {
                   Work Flow
                 </a>
               </li>
-              <li class="nav-item">
+              {/* <li class="nav-item">
                 <a class="nav-link px-2" href="#projects" onclick="change()">
                   Projects
                 </a>
-              </li>
+              </li> */}
               <li class="nav-item">
                 <a class="nav-link px-2" href="#designs" onclick="change()">
                   Designs
                 </a>
               </li>
-              <li class="nav-item">
+              {/* <li class="nav-item">
                 <a class="nav-link px-2" href="#workexp" onclick="change()">
                   Work Exprience
                 </a>
-              </li>
+              </li> */}
               <li class="nav-item">
                 <a
                   class="nav-link px-2 pe-4"

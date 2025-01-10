@@ -501,7 +501,7 @@
 
 .logo-img img {
   position: fixed;
-  transform: skewY(-5deg);
+  /* transform: skewY(-5deg); */
   margin-left: 116px;
   width: 100px;
   height: 80px;
@@ -520,7 +520,7 @@
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
   padding: 40px 20px 20px;
-  width: 90%;
+  height: 250px;
   max-width: 300px;
   transition: transform 0.3s ease-in-out;
   margin: 20px 0;
@@ -609,4 +609,13 @@
   align-items: center;
   cursor: pointer;
   z-index: 1000;
+}
+
+.see-more {
+  background-color: #e03a3df3;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  border: none;
 }

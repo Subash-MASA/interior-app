@@ -1,7 +1,7 @@
 import CollapsibleExample from "../components/Navbar/Navbar";
 // import Carousel from "../components/Carousel/Carousel";
-import Projects from "../components/Projects/Projects";
-import WorkExprience from "../components/WorkExprience/WorkExprience";
+// import Projects from "../components/Projects/Projects";
+// import WorkExprience from "../components/WorkExprience/WorkExprience";
 import Footer from "../components/Footer/Footer";
 import React, { useState, useEffect } from "react";
 import AOS from "aos";
@@ -67,10 +67,10 @@ function Home() {
               </h2>
               <h2>Contact Us</h2>
               <h2>
-                <span>phone :</span>+91 8015439155
+                <span>phone :</span>+91 99620 45315, +91 80154 39155
               </h2>
               <h2>
-                <span>Email :</span>subashnss7@gmail.com
+                <span>Email :</span>finefinishinterior@gmail.com
               </h2>
             </div>
           </div>
@@ -80,9 +80,9 @@ function Home() {
       <Features />
       {/* <Carousel /> */}
       <Process />
-      <Projects />
+      {/* <Projects /> */}
       <Designs />
-      <WorkExprience />
+      {/* <WorkExprience /> */}
       <section class="box py-5">
         <div class="container">
           <div class="row gy-3 ">
@@ -93,7 +93,7 @@ function Home() {
                 data-aos-duration="1500"
                 data-aos-once="true"
               >
-                <h1>232</h1>
+                <h1>60</h1>
                 <p>Happy Clients</p>
                 <div class="icons">
                   <iconify-icon icon="bi:emoji-smile"></iconify-icon>
@@ -107,7 +107,7 @@ function Home() {
               data-aos-once="true"
             >
               <div class="box-1 p-4 mt-5">
-                <h1>521</h1>
+                <h1>50</h1>
                 <p>Projects</p>
                 <div class="icons">
                   <iconify-icon icon="bi:journal-richtext"></iconify-icon>
@@ -172,11 +172,11 @@ function Home() {
                   <div className="contact-2">
                     <h1>Our Address</h1>
                     <p>
-                      3.1.88 Bharathi Nagar,
+                      79-A, Siva Prakasam Nager,
                       <br />
-                      Sambavarvadakarai 627-856,
+                      40 Feet Road, Redlilis, 
                       <br />
-                      Tenkasi
+                      Ambattur, Chennai - 600053.
                     </p>
                   </div>
                 </div>
@@ -198,7 +198,7 @@ function Home() {
                 </div>
                 <div className="contact-2">
                   <h1>Call Us</h1>
-                  <p>+91 8760636247</p>
+                  <p>+91 99620 45315, +91 80154 39155</p>
                 </div>
               </div>
             </div>
@@ -216,7 +216,7 @@ function Home() {
                 </div>
                 <div className="contact-2">
                   <h1>Email Us</h1>
-                  <p>subashnss7@gmail.com</p>
+                  <p>finefinishinterior@gmail.com</p>
                 </div>
               </div>
             </div>
