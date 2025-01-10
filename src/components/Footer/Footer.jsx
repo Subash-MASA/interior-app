@@ -57,17 +57,17 @@ function Footer() {
           </div>
         </div>
       </div>
-      {/* <div class="footer-end text-center">
+      <div class="footer-end text-center">
         <div class="container">
           <div class="row  justify-content-between align-items-center">
             <div class="col-lg-8 col-md-6">
               <div class="footer-mail text-lg-start d-flex align-items-md-start ">
                 <p>
-                  2024 Designed by<a href="#nav"> Subash.N</a>
+                  2025 Designed by<a href="#nav"> Yazhi InfoTech.</a>
                 </p>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6">
+            {/* <div class="col-lg-4 col-md-6">
               <div class="footer-logo text-lg-end text-md-end">
                 <a href="#">
                   <iconify-icon icon="bxl:twitter"></iconify-icon>
@@ -85,10 +85,10 @@ function Footer() {
                   <iconify-icon icon="bxl:linkedin"></iconify-icon>
                 </a>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
-      </div> */}
+      </div>
     </div>
   );
 }

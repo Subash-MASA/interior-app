@@ -7,6 +7,10 @@ function CollapsibleExample() {
     setIsOpen(!isOpen);
   };
 
+  const handleNavItemClick = () => {
+    setIsOpen(false);
+  };
+
   return (
     <>
       <div className="logo-img">
@@ -27,19 +31,19 @@ function CollapsibleExample() {
             } justify-content-end order-lg-1`}
             id="navbarNav"
           >
-            <ul class="navbar-nav menu" id="now">
+            <ul class="navbar-nav menu bg-white" id="now">
               <li class="nav-item">
-                <a class="nav-link active px-2" onclick="change()" href="#nav">
+                <a class="nav-link active px-2" onClick={handleNavItemClick} href="#nav">
                   Home
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link px-2" onclick="change()" href="#features">
+                <a class="nav-link px-2" onClick={handleNavItemClick} href="#features">
                   Features
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link px-2" href="#workflow" onclick="change()">
+                <a class="nav-link px-2" href="#workflow" onClick={handleNavItemClick}>
                   Work Flow
                 </a>
               </li>
@@ -49,7 +53,7 @@ function CollapsibleExample() {
                 </a>
               </li> */}
               <li class="nav-item">
-                <a class="nav-link px-2" href="#designs" onclick="change()">
+                <a class="nav-link px-2" href="#designs" onClick={handleNavItemClick}>
                   Designs
                 </a>
               </li>
@@ -62,7 +66,7 @@ function CollapsibleExample() {
                 <a
                   class="nav-link px-2 pe-4"
                   href="#contact"
-                  onclick="change()"
+                  onClick={handleNavItemClick}
                 >
                   Contact
                 </a>

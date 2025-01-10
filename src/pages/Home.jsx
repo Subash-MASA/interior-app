@@ -44,10 +44,10 @@ function Home() {
   return (
     <>
       <div
-        className="scroll-progress"
+        className="scroll-progress "
         style={{ width: `${scrollProgress}%` }}
       ></div>
-      <div id="nav">
+      <div id="nav" className=" w-100 overflow-hidden">
         <CollapsibleExample />
       </div>
       <div className="banner">

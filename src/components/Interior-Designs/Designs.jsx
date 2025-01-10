@@ -19,13 +19,21 @@ import Interior17 from "../../assets/Interiar/Interior17.jpg";
 import Interior18 from "../../assets/Interiar/Interior18.jpg";
 import Interior19 from "../../assets/Interiar/Interior19.jpg";
 import Interior20 from "../../assets/Interiar/Interior20.jpg";
+import Shop from "../../assets/Interiar/Interior-shop1.jpg";
+import Shop2 from "../../assets/Interiar/Interior-shop2.webp";
+import Shop3 from "../../assets/Interiar/Interior-shop3.webp";
+import Shop4 from "../../assets/Interiar/Interior-shop4.jpg";
 
 function Designs() {
   const images = [
     Portfolio1,
+    Shop,
     Portfolio2,
+    Shop2,
     Portfolio3,
+    Shop3,
     Portfolio4,
+    Shop4,
     Portfolio5,
     Portfolio6,
     Portfolio7,
