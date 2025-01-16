@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/interior-app/static/css/main.17be20f4.css",
-    "main.js": "/interior-app/static/js/main.93a8c6b6.js",
+    "main.css": "/interior-app/static/css/main.32604dda.css",
+    "main.js": "/interior-app/static/js/main.5333867c.js",
     "static/js/488.03d1ba06.chunk.js": "/interior-app/static/js/488.03d1ba06.chunk.js",
-    "static/media/abcd.jpg": "/interior-app/static/media/abcd.115d4914256c858db80a.jpg",
+    "static/media/Frame1.jpg": "/interior-app/static/media/Frame1.f4aa97a5381d54ca27c6.jpg",
     "static/media/Interior10.jpg": "/interior-app/static/media/Interior10.f7698533cca083681555.jpg",
     "static/media/pexels-fotoaibe-1643384.jpg": "/interior-app/static/media/pexels-fotoaibe-1643384.abf64253d7f1420c0c65.jpg",
     "static/media/Interior19.jpg": "/interior-app/static/media/Interior19.cdc8665ab1a59d292ee6.jpg",
     "static/media/Interior15.jpg": "/interior-app/static/media/Interior15.cd36e65609b04d242259.jpg",
+    "static/media/Laser1.jpg": "/interior-app/static/media/Laser1.533ff5f8203667d43cf0.jpg",
+    "static/media/Laser2.jpg": "/interior-app/static/media/Laser2.266053b367b06fd80166.jpg",
     "static/media/Interior2.jpg": "/interior-app/static/media/Interior2.b78918d8bb8ee0a20a87.jpg",
     "static/media/Interior12.jpg": "/interior-app/static/media/Interior12.f78d67828739006abd09.jpg",
     "static/media/Interior1.jpg": "/interior-app/static/media/Interior1.8298f5eff20c18cdc27f.jpg",
+    "static/media/Router1.jpg": "/interior-app/static/media/Router1.1bda92b5af005b12f060.jpg",
     "static/media/Interior16.jpg": "/interior-app/static/media/Interior16.3a555e94d74c6f551a48.jpg",
+    "static/media/Router2.jpg": "/interior-app/static/media/Router2.5a77d18a747c731aa15d.jpg",
     "static/media/Interior-shop4.jpg": "/interior-app/static/media/Interior-shop4.a372c8b991521201035e.jpg",
     "static/media/Interior-shop1.jpg": "/interior-app/static/media/Interior-shop1.38fb9c2bc112e7ed6ae4.jpg",
     "static/media/Interior13.jpg": "/interior-app/static/media/Interior13.ba1dc243e40d2e4ee396.jpg",
@@ -31,12 +35,12 @@
     "static/media/Interior3.jpg": "/interior-app/static/media/Interior3.89f5468891a5ff898cef.jpg",
     "static/media/Interior7.jpg": "/interior-app/static/media/Interior7.c56bfc7366ac09a795c4.jpg",
     "index.html": "/interior-app/index.html",
-    "main.17be20f4.css.map": "/interior-app/static/css/main.17be20f4.css.map",
-    "main.93a8c6b6.js.map": "/interior-app/static/js/main.93a8c6b6.js.map",
+    "main.32604dda.css.map": "/interior-app/static/css/main.32604dda.css.map",
+    "main.5333867c.js.map": "/interior-app/static/js/main.5333867c.js.map",
     "488.03d1ba06.chunk.js.map": "/interior-app/static/js/488.03d1ba06.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17be20f4.css",
-    "static/js/main.93a8c6b6.js"
+    "static/css/main.32604dda.css",
+    "static/js/main.5333867c.js"
   ]
 }
