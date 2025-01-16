@@ -9,6 +9,7 @@ import "aos/dist/aos.css";
 import Features from "../components/Features/Features";
 import Process from "../components/Process/Process";
 import Designs from "../components/Interior-Designs/Designs";
+import CNCLaser from "../components/Cnc-Laser/cnc-laser";
 
 function Home() {
   const [scrollProgress, setScrollProgress] = useState(0);
@@ -61,7 +62,7 @@ function Home() {
             >
               <h1 class="py-3">Fine Finish Interior Design For Your Family</h1>
               <h2 class="pb-3">
-                At <span className="text-danger">Fine Finish Interior</span>, we
+                At <span className="text-danger">Fine Finish Interior & Exterior</span>, we
                 create spaces that combine beauty, functionality, and comfort,
                 tailored to reflect your style and needs.
               </h2>
@@ -82,6 +83,7 @@ function Home() {
       <Process />
       {/* <Projects /> */}
       <Designs />
+      <CNCLaser />
       {/* <WorkExprience /> */}
       <section class="box py-5">
         <div class="container">
