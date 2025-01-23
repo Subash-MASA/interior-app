@@ -23,25 +23,41 @@ import Shop from "../../assets/Interiar/Interior-shop1.jpg";
 import Shop2 from "../../assets/Interiar/Interior-shop2.webp";
 import Shop3 from "../../assets/Interiar/Interior-shop3.webp";
 import Shop4 from "../../assets/Interiar/Interior-shop4.jpg";
+import Design1 from "../../assets/Interiar/Newfolder/Design1.jpg";
+import Design2 from "../../assets/Interiar/Newfolder/Design2.jpg";
+import Design3 from "../../assets/Interiar/Newfolder/Design3.jpg";
+import Design4 from "../../assets/Interiar/Newfolder/Design4.jpg";
+import Design5 from "../../assets/Interiar/Newfolder/Design5.jpg";
+import Design6 from "../../assets/Interiar/Newfolder/Design6.jpg";
+import Design7 from "../../assets/Interiar/Newfolder/Design7.jpg";
+import Design8 from "../../assets/Interiar/Newfolder/Design8.jpg";
 
 function Designs() {
   const images = [
     Portfolio1,
     Shop,
+    Design1,
     Portfolio2,
     Shop2,
+    Design2,
     Portfolio3,
     Shop3,
+    Design3,
     Portfolio4,
+    Design4,
     Shop4,
     Portfolio5,
+    Design5,
     Portfolio6,
     Portfolio7,
+    Design6,
     Portfolio8,
     Portfolio9,
+    Design7,
     Interior10,
     Interior11,
     Interior12,
+    Design8,
     Interior13,
     Interior14,
     Interior15,

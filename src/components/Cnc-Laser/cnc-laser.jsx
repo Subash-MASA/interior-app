@@ -16,12 +16,12 @@ function CNCLaser() {
                 >
                     <h3 className="laser">We Provide the Best CNC Routing and Laser Cutting Exprience</h3>
                 </div>
-                <div class="container">
-                    <div class="row py-4">
+                <div class="container py-4">
+                    <div class="row ">
                         <div class="col-lg-6 mb-2 text-center text-lg-start  ">
                             <div
                                 class="abo "
-                                data-aos="fade-right"
+                                data-aos="fade-up"
                                 data-aos-duration="1500"
                                 data-aos-once="true"
                             >
@@ -34,14 +34,14 @@ function CNCLaser() {
                                     <div className="row">
                                         <div class="col-lg-3 mt-3 col-md-3 col-3">
                                             <div class="inner-box cnc-routing">
-                                            <iconify-icon icon="ic:round-play-arrow" width="24" height="24"></iconify-icon>
+                                                <iconify-icon icon="ic:round-play-arrow" width="24" height="24"></iconify-icon>
                                             </div>
                                         </div>
                                         <div class="col-lg-9 mt-3  col-md-9 col-9">
                                             <div class="inner-box text-start">
                                                 <h5>Machine Ownership</h5>
                                                 <p class="">
-                                                I own a CNC routing machine that allows for high-precision cutting and shaping.
+                                                    I own a CNC routing machine that allows for high-precision cutting and shaping.
                                                 </p>
                                             </div>
                                         </div>
@@ -49,14 +49,14 @@ function CNCLaser() {
                                     <div className="row">
                                         <div class="col-lg-3 mt-3 col-md-3 col-3">
                                             <div class="inner-box cnc-routing">
-                                            <iconify-icon icon="ic:round-play-arrow" width="24" height="24"></iconify-icon>
+                                                <iconify-icon icon="ic:round-play-arrow" width="24" height="24"></iconify-icon>
                                             </div>
                                         </div>
                                         <div class="col-lg-9 mt-3  col-md-9 col">
                                             <div class="inner-box text-start">
                                                 <h5>Service Offered</h5>
                                                 <p class="">
-                                                I provide CNC routing services to customers, offering custom designs and accurate results.
+                                                    I provide CNC routing services to customers, offering custom designs and accurate results.
                                                 </p>
                                             </div>
                                         </div>
@@ -64,14 +64,14 @@ function CNCLaser() {
                                     <div className="row">
                                         <div class="col-lg-3 mt-3 col-md-3 col-3">
                                             <div class="inner-box cnc-routing">
-                                            <iconify-icon icon="ic:round-play-arrow" width="24" height="24"></iconify-icon>
+                                                <iconify-icon icon="ic:round-play-arrow" width="24" height="24"></iconify-icon>
                                             </div>
                                         </div>
                                         <div class="col-lg-9 mt-3  col-md-9 col-9">
                                             <div class="inner-box text-start">
                                                 <h5>Quality and Customization</h5>
                                                 <p class="">
-                                                I ensure top-quality work, tailoring each project to the specific needs and requirements of my customers.
+                                                    I ensure top-quality work, tailoring each project to the specific needs and requirements of my customers.
                                                 </p>
                                             </div>
                                         </div>
@@ -82,7 +82,7 @@ function CNCLaser() {
                         <div class="col-lg-6">
                             <div
                                 class="abo "
-                                data-aos="fade-left"
+                                data-aos="fade-up"
                                 data-aos-duration="1500"
                                 data-aos-once="true"
                             >
@@ -95,14 +95,14 @@ function CNCLaser() {
                                     <div className="row">
                                         <div class="col-lg-3 mt-3 col-md-3 col-3">
                                             <div class="inner-box cnc-routing">
-                                            <iconify-icon icon="ic:round-play-arrow" width="24" height="24"></iconify-icon>
+                                                <iconify-icon icon="ic:round-play-arrow" width="24" height="24"></iconify-icon>
                                             </div>
                                         </div>
                                         <div class="col-lg-9 mt-3  col-md-9 col-9">
                                             <div class="inner-box text-start">
                                                 <h5>Machine Ownership</h5>
                                                 <p class="">
-                                                I own a laser cutting machine capable of delivering high-precision results.
+                                                    I own a laser cutting machine capable of delivering high-precision results.
                                                 </p>
                                             </div>
                                         </div>
@@ -110,14 +110,14 @@ function CNCLaser() {
                                     <div className="row">
                                         <div class="col-lg-3 mt-3 col-md-3 col-3">
                                             <div class="inner-box cnc-routing">
-                                            <iconify-icon icon="ic:round-play-arrow" width="24" height="24"></iconify-icon>
+                                                <iconify-icon icon="ic:round-play-arrow" width="24" height="24"></iconify-icon>
                                             </div>
                                         </div>
                                         <div class="col-lg-9 mt-3  col-md-9 col-9">
                                             <div class="inner-box text-start">
-                                            <h5>Service Offered</h5>
+                                                <h5>Service Offered</h5>
                                                 <p class="">
-                                                I provide professional laser cutting services to customers, catering to their specific needs.
+                                                    I provide professional laser cutting services to customers, catering to their specific needs.
                                                 </p>
                                             </div>
                                         </div>
@@ -125,14 +125,14 @@ function CNCLaser() {
                                     <div className="row">
                                         <div class="col-lg-3 mt-3 col-md-3 col-3">
                                             <div class="inner-box cnc-routing">
-                                            <iconify-icon icon="ic:round-play-arrow" width="24" height="24"></iconify-icon>
+                                                <iconify-icon icon="ic:round-play-arrow" width="24" height="24"></iconify-icon>
                                             </div>
                                         </div>
                                         <div class="col-lg-9 mt-3 col-md-9 col-9">
                                             <div class="inner-box text-start">
                                                 <h5>Quality Assurance</h5>
                                                 <p class="">
-                                                I ensure accuracy and quality in every project, using advanced technology to meet customer expectations.
+                                                    I ensure accuracy and quality in every project, using advanced technology to meet customer expectations.
                                                 </p>
                                             </div>
                                         </div>
@@ -141,42 +141,42 @@ function CNCLaser() {
                             </div>
                         </div>
                     </div>
-                    <div className="row" data-aos-duration="1500">
-              <div className="col-lg-3 col-md-6 col-12 pb-2">
-                <div className="laser-cut">
-                  <img
-                    src={RouterImage}
-                    alt="RouterImage"
-                  />
+                    <div className="row" >
+                        <div className="col-lg-3 col-md-6 col-12 pb-2">
+                            <div className="laser-cut">
+                                <img
+                                    src={RouterImage}
+                                    alt="RouterImage"
+                                />
+                            </div>
+                        </div>
+                        <div className="col-lg-3 col-md-6 col-12 pb-2">
+                            <div className="laser-cut">
+                                <img
+                                    src={RouterImage1}
+                                    alt="RouterImage1"
+                                />
+                            </div>
+                        </div>
+                        <div className="col-lg-3 col-md-6 col-12 pb-2">
+                            <div className="laser-cut">
+                                <img
+                                    src={LaserImage}
+                                    alt="LaserImage"
+                                />
+                            </div>
+                        </div>
+                        <div className="col-lg-3 col-md-6 col-12 pb-2">
+                            <div className="laser-cut">
+                                <img
+                                    src={LaserImage1}
+                                    alt="LaserImage1"
+                                />
+                            </div>
+                        </div>
+                    </div>
                 </div>
-              </div>
-              <div className="col-lg-3 col-md-6 col-12 pb-2">
-                <div className="laser-cut">
-                  <img
-                    src={RouterImage1}
-                    alt="RouterImage1"
-                  />
-                </div>
-              </div>
-              <div className="col-lg-3 col-md-6 col-12 pb-2">
-                <div className="laser-cut">
-                  <img
-                    src={LaserImage}
-                    alt="LaserImage"
-                  />
-                </div>
-              </div>
-              <div className="col-lg-3 col-md-6 col-12 pb-2">
-                <div className="laser-cut">
-                  <img
-                    src={LaserImage1}
-                    alt="LaserImage1"
-                  />
-                </div>
-              </div>
-          </div>
-                </div>
-            </section>            
+            </section>
         </div>
     );
 }

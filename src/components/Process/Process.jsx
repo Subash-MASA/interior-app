@@ -13,12 +13,12 @@ function Process() {
         >
           <h1>Work Flow</h1>
         </div>
-        <div class="container">
-          <div class="row py-4">
+        <div class="container  py-4">
+          <div class="row">
             <div class="col-lg-6 mb-2 text-center text-lg-start  ">
               <div
                 class="abo "
-                data-aos="fade-right"
+                data-aos="fade-up"
                 data-aos-duration="1500"
                 data-aos-once="true"
               >
@@ -28,7 +28,7 @@ function Process() {
             <div class="col-lg-6 px-5">
               <div
                 class="abo "
-                data-aos="fade-left"
+                data-aos="fade-up"
                 data-aos-duration="1500"
                 data-aos-once="true"
               >

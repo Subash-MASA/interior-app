@@ -52,15 +52,15 @@ function Home() {
         <CollapsibleExample />
       </div>
       <div className="banner">
-        <div class="container">
-          <div class="row py-5">
+        <div class="container py-5">
+          <div class="row ">
             <div
               class="col-xl-6  py-5 mb-5 text-center text-lg-start  "
-              data-aos="zoom-out"
+              data-aos="fade-down"
               data-aos-duration="1500"
               data-aos-once="true"
             >
-              <h1 class="py-3">Fine Finish Interior Design For Your Family</h1>
+              <h1 class="py-3">Fine Finish Interior & Exterior Design For Your Family</h1>
               <h2 class="pb-3">
                 At <span className="text-danger">Fine Finish Interior & Exterior</span>, we
                 create spaces that combine beauty, functionality, and comfort,
@@ -87,13 +87,13 @@ function Home() {
       {/* <WorkExprience /> */}
       <section class="box py-5">
         <div class="container">
-          <div class="row gy-3 ">
+          <div class="row gy-3">
             <div class="col-lg-4  col-md-6">
               <div
                 class="box-1 p-4 mt-5"
-                data-aos="flip-up"
-                data-aos-duration="1500"
-                data-aos-once="true"
+                data-aos="flip-left"
+                data-aos-easing="ease-out-cubic"
+                data-aos-duration="2000"
               >
                 <h1>60</h1>
                 <p>Happy Clients</p>
@@ -104,9 +104,9 @@ function Home() {
             </div>
             <div
               class="col-lg-4 col-md-6"
-              data-aos="flip-down"
-              data-aos-duration="1500"
-              data-aos-once="true"
+              data-aos="flip-right"
+              data-aos-easing="ease-out-cubic"
+              data-aos-duration="2000"
             >
               <div class="box-1 p-4 mt-5">
                 <h1>50</h1>
@@ -116,25 +116,12 @@ function Home() {
                 </div>
               </div>
             </div>
-            {/* <div
-              class="col-lg-3 col-md-6"
-              data-aos="fade-up"
-              data-aos-duration="1500"
-              data-aos-once="true"
-            >
-              <div class="box-1 p-4 mt-5">
-                <h1>1463</h1>
-                <p>Hours Of Support</p>
-                <div class="icons">
-                  <iconify-icon icon="bi:headset"></iconify-icon>
-                </div>
-              </div>
-            </div> */}
+
             <div
               class="col-lg-4 col-md-6"
-              data-aos="flip-up"
-              data-aos-duration="1500"
-              data-aos-once="true"
+              data-aos="flip-left"
+              data-aos-easing="ease-out-cubic"
+              data-aos-duration="2000"
             >
               <div class="box-1 p-4 mt-5">
                 <h1>15</h1>
@@ -176,7 +163,7 @@ function Home() {
                     <p>
                       79-A, Siva Prakasam Nager,
                       <br />
-                      40 Feet Road, Redlilis, 
+                      40 Feet Road, Redlilis,
                       <br />
                       Ambattur, Chennai - 600053.
                     </p>
