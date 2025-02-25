@@ -49,6 +49,13 @@ function CollapsibleExample() {
           <button className="navbar-toggler" type="button" onClick={toggleNavbar}>
             <span className="navbar-toggler-icon"></span>
           </button>
+          <div className="d-lg-none">
+          <img
+          src={Finefinish}
+          alt="Fine Finish"
+          className="interior-fine"
+        />
+          </div>
           <div
             className={`collapse navbar-collapse ${isOpen ? "show" : ""
               } justify-content-end order-lg-1`}

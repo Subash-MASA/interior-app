@@ -63,7 +63,7 @@ function Footer() {
             <div class="col-lg-8 col-md-6">
               <div class="footer-mail text-lg-start d-flex align-items-md-start ">
                 <p>
-                © 2025 Designed by <a href="#nav">TecnoExito</a>
+                © 2025 Designed by <a href="#nav">Tecno Exito</a>
                 </p>
               </div>
             </div>
